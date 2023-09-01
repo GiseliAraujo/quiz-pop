@@ -1,6 +1,6 @@
 # Construindo um Questionário HTML, CSS e JavaScript
 
-![Tela inicial](./imagem/primeiratela.png)
+![Tela inicial](./imagem/primeira_tela.png)
 
 Lista de reprodução de vídeos: https://share.vidyard.com/watch/uY1mEnobLS442GXMrbS2Vv?
 
