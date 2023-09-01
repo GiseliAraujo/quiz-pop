@@ -14,17 +14,17 @@ Fase de Construção ;
 
 ## 1. Criamos as Tela de HTML;
 
-- End.html
-- Ranking.html
-- Game.html
-- Index.html
+- End.html;
+- Ranking.html;
+- Game.html;
+- Index.html;
   
 ## 2. Criamos as Funções em JavaScript;
 
-- End.js
-- Packge.js
-- Questions.js 
-- Ranking.js
+- End.js;
+- Packge.js;
+- Questions.js;
+- Ranking.js;
   
 ## 3. Criamos os arquivos de CSS;
 
