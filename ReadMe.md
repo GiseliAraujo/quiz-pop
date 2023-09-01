@@ -8,7 +8,7 @@ Lista de reprodução de vídeos: https://share.vidyard.com/watch/uY1mEnobLS442G
 
 Nosso trabalho consistiu em criar uma pagina de questionarios fundamentados na pesquisa do Censo 2022.
 
-Nosso intiuito é demosntrar o aprendizado de HTML, CSS e JavaScript, juntamente com os dados analisados do Censo.
+Nosso intiuito é demonstrar o aprendizado de HTML, CSS e JavaScript, juntamente com os dados analisados do Censo 2022.
 
 Fase de Construção ;
 
