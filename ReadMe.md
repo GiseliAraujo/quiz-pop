@@ -1,4 +1,4 @@
-# Construindo um Questionário HTML, CSS e JavaScript
+# Construindo um Questionário HTML, CSS e JavaScript.
 
 ![Tela inicial](./imagem/primeira_tela.png)
 
