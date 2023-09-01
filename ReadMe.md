@@ -35,6 +35,9 @@ Fase de Construção ;
 Para construção deste trabalho, tivemos 2 desafios;
 - Como fariamos para armazenar as perguntas e as respostas?
 
+R. Utilizamos o codigo .js para construir as perguntas e as funções conforme consultadas buscavam no arquivo as informações das nossas questões, conforme o trecho do codigo abaixo do arquivo questions.js;
+
+
 ##### Comando específico
 	{
           question:
@@ -48,7 +51,6 @@ Para construção deste trabalho, tivemos 2 desafios;
   
 
 
-R. Utilizamos o codigo .js para construir as perguntas e as funções conforme consultadas, buscavam no arquivo as informações das nossas questões;
 
 
 - Como fariamos para armazerar os pontos por jogadores e incluir em uma tabela o Ranking de pontuação?
