@@ -35,7 +35,10 @@ Fase de Construção ;
 Para construção deste trabalho, tivemos 2 desafios;
 - Como fariamos para armazenar as perguntas e as respostas?
 
-##### Setar editor
+##### Comando específico
+	git help add
+	git help commit
+	git help <qualquer_comando_git>
   {
       question:
         "Qual foi a cidade que teve maior aumento na região entre os dois censos?",
