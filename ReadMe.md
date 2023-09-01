@@ -33,7 +33,19 @@ Fase de Construção ;
 
 ## 4. Armazenamento dos dados;
 Para construção deste trabalho, tivemos 2 desafios;
-- Como fariamos para armazenar as perguntas e as respostas?;
+- Como fariamos para armazenar as perguntas e as respostas?
+
+  {
+      question:
+        "Qual foi a cidade que teve maior aumento na região entre os dois censos?",
+      answer: 3,
+      choice1: "Tanque D'arca (AL) 172,2%",
+      choice2: "São Raimundo Nonato (PI), 153,78%",
+      choice3: "Extremoz (RN) 150,6%",
+      choice4: "Grajaú(MA), 162,8%"
+    }
+
+
 R. Utilizamos o codigo .js para construir as perguntas e as funções conforme consultadas, buscavam no arquivo as informações das nossas questões;
 
 
