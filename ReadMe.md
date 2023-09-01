@@ -49,7 +49,7 @@ Fase de Construção ;
 
 ![Tela inicial](./imagem/RespostaCorreta.png)
 
-## 5. Escolha da resposta com Resultado Negativa;
+## 5. Escolha da resposta com Resultado Negativo;
 
 ![Tela inicial](./imagem/respostaErrada.png)
 
